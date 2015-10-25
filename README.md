@@ -36,6 +36,10 @@ Files
         been most frequented by tourists and a corresponding location of a
 	cell tower in the same area.
 
+	* movies_actors_new_subset.xlsx
+		This file contains the main actors IDs, their related film IDs and display names 
+		(some display names were not unique).
+
 * Tourism in Howard County in the year 2013 : Tourism_2013.xlsx
         The dataset includes information centered on Howard County Tourism. 
         It includes areas of interest that are most frequented by tourists in Howard 
