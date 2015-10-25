@@ -61,7 +61,7 @@ References
 ----------
 
 Jaikumar, Srikanth. (2015). Optimal Locations for Wi-Fi Implementation in Howard County, MD [Data Set].
-Available at <Git hub repository  goes here> 
+Available at https://github.com/srikanthjaikumar/INFM600
 
 Howard County, Maryland. (2013). Tourism – tourist spot locations [Data set]. 
 Retrieved 21st October 2015 from https://data.howardcountymd.gov/
