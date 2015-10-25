@@ -33,8 +33,8 @@ Files
 
 	* Optimal_Locations_for_Wi-Fi_Implementation_in_Howard County, MD.xlsx
         	This is the joined dataset which contains the locations that have
-        	been most frequented by tourists and a corresponding location of a
-		cell tower in the same area.
+        	been most frequented by tourists and a corresponding location of a 
+        	cell tower in the same area.
 
 
 	* Tourism_2013.xlsx
