@@ -20,8 +20,8 @@ primary attribute in this analysis. On the map, we can show towers that depict t
 of a cell tower and draw a dotted circle around the same to represent area of coverage. 
 The most common tourist spots will then be depicted using pins on the map. This would 
 provide us with a clear representation of the maximum number of tourist spots that fall 
-within the range of a tower and it would thus be more feasible to implement Wi-Fi technology
-in the same.
+within the range of a tower which would result in locations that are most viable to 
+implement Wi-Fi technology.
 
 This dataset has been generated according to the specifications for class
 INFM600, Fall 2015 at the University of Maryland, College Park.
