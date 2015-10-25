@@ -11,7 +11,7 @@ Version 1.0 (October 2015)
 Description
 -----------
 
-The new dataset namely "Optimal Locations for Wi-Fi Imlementation in Howard County, MD" 
+The new dataset namely "Optimal Locations for Wi-Fi Implementation in Howard County, MD" 
 is created by joining datasets on Tourism and Cell Towers in Howard County, Maryland. 
 This dataset will prove useful to address the question of – Which locations, most frequented 
 by tourists can Wi-Fi service be implemented in using an existing Cell Tower?.The results 
