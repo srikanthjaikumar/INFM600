@@ -15,7 +15,7 @@ The new dataset namely "Optimal Locations for Wi-Fi Implementation in Howard Cou
 is created by joining datasets on Tourism and Cell Towers in Howard County, Maryland. 
 This dataset will prove useful to address the question of – Which locations, most frequented 
 by tourists can Wi-Fi service be implemented in using an existing Cell Tower?.The results 
-for this analysis would be best represented using a map as geographic locations is the 
+for this analysis would be best represented using a map as geographic location is the 
 primary attribute in this analysis. On the map, we can show towers that depict the location 
 of a cell tower and draw a dotted circle around the same to represent area of coverage. 
 The most common tourist spots will then be depicted using pins on the map. This would 
