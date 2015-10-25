@@ -1,0 +1,10 @@
+FID,UID,NAME,PLACE_TYPE,NUMBER,SUITE,STREET,SUFFIX,CITY,ZIP,WORKPROGRE,geom
+Cell_Towers.1,2330,Cooksville Highway Shop,Cell Tower,14210,,FREDERICK,RD,Cooksville,21723,Address Checked,POINT (1310416.1009096596 601941.4435331278)
+Cell_Towers.4,2333,Howard High School,Cell Tower,8650,,OLD ANNAPOLIS,RD,Ellicott City,21043,Address Checked,POINT (1366047.7208182602 568120.7292777421)
+Cell_Towers.5,2334,Savage Waste Treatment Plant,Cell Tower,8600,,GREENWOOD,PL,Annapolis Junction,20701,Address Checked,POINT (1366146.0559367489 531583.672142387)
+Cell_Towers.10,5407,Scaggsville Tower,Cell Tower,8160,N,CREST,RD,Laurel,20723,Address Checked,POINT (1341714.754281051 539321.7094425063)
+Cell_Towers.12,2329,Alpha Ridge,Cell Tower,2180,,ALPHA CENTER,DR,Marriottsville,21104,Address Checked,POINT (1334918.217207652 598172.0585534925)
+Cell_Towers.13,,Old Frederick Road Tower,Cell Tower,9945,,Old Frederick RD,,,,,POINT (1352816.0867647168 594364.4993524883)
+Cell_Towers.14,,Dunloggin,Cell Tower,9504,,Old Annapolis RD,,,,,POINT (1357586.218003546 573539.6967001705)
+Cell_Towers.15,,Cedar Lane Tank,Cell Tower,5275,,Cedar LN,,,,,POINT (1344089.1376628915 568181.310734668)
+Cell_Towers.16,,Snowden River Tank,Cell Tower,8812,,Stanford BLVD,,,,,POINT (1364249.0076092386 554172.6536466383)
