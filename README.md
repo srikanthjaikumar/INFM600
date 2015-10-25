@@ -31,18 +31,18 @@ Files
 -----
 
 
-* Optimal Locations for Wi-Fi implementation
+* Optimal Locations for Wi-Fi implementation : Optimal_Locations_for_Wi-Fi_Implementation_in_Howard County, MD.xlsx
         This is the joined dataset which contains the locations that have
         been most frequented by tourists and a corresponding location of a
 	cell tower in the same area.
 
-* Tourism in Howard County in the year 2013
+* Tourism in Howard County in the year 2013 : Tourism_2013.xlsx
         The dataset includes information centered on Howard County Tourism. 
         It includes areas of interest that are most frequented by tourists in Howard 
         County. It contains particulars on the address, name of the location, 
         tourism ID and geometric point of location.
 
-* Cell Towers in Howard County
+* Cell Towers in Howard County : Cell_Towers.xlsx
         The dataset contains data on the various locations 
         where a cell tower is present and owned by Howard County, Maryland. 
         It contains specifics on the name, street address, city and 
