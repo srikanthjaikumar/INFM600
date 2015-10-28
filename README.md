@@ -48,6 +48,11 @@ Files
         	It contains specifics on the name, street address, city and 
         	geometric point of location.
 
+	* Libraries.csv
+        	The dataset contains data related to locations where a library
+	        is present in Howard County, MD. It includes particulars such as
+	        name, address, city, zipcode and geometric location.
+
 ------- 
 License
 -------
@@ -67,4 +72,7 @@ References
 	Retrieved 21st October 2015 from https://data.howardcountymd.gov/
 
 	Howard County, Maryland. (2014). Cell Towers – cell tower locations [Data set]. 
+	Retrieved 21st October 2015 from https://data.howardcountymd.gov/
+	
+	Howard County, Maryland. (2014). Libraries – Library site locations [Data set]. 
 	Retrieved 21st October 2015 from https://data.howardcountymd.gov/
