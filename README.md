@@ -39,8 +39,8 @@ Files
 	* Tourism_2013.csv
         	The dataset includes information centered on Howard County Tourism. 
         	It includes areas of interest that are most frequented by tourists in Howard 
-        	County. It contains particulars on the address, name of the location, 
-		tourism ID and geometric point of location.
+        	County. It contains particulars on the address, name of the location,  
+       		tourism ID and geometric point of location.
 
 	* Cell_Towers.csv
         	The dataset contains data on the various locations 
