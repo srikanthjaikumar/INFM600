@@ -36,7 +36,6 @@ Files
         	been most frequented by tourists and a corresponding location of a 
         	cell tower in the same area.
 
-
 	* Tourism_2013.csv
         	The dataset includes information centered on Howard County Tourism. 
         	It includes areas of interest that are most frequented by tourists in Howard 
